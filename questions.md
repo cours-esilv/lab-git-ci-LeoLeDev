@@ -101,3 +101,4 @@ How can I find out what changes were made in the last commit?
 - B. Use **gitLens** in VSCode with the history view.
 - C. Use _Thonny_ to debug the code.
 
+A
